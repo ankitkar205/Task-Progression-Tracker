@@ -5,7 +5,23 @@ This isn't just a to-do list. It's a full-featured productivity application buil
  <!-- It's highly recommended to replace this with a real screenshot of your app! -->
 
 ---
-
+<!-- Start of Showcase Gallery -->
+<div align="center">
+  <h3>App Showcase</h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="1.jpg"  width="250"/></td>
+      <td valign="top"><img src="2.jpg"  width="250"/></td>
+      <td valign="top"><img src="3.jpg"  width="250"/></td>
+      <td valign="top"><img src="4.jpg"  width="250"/></td>
+      <td valign="top"><img src="5.jpg"  width="250"/></td>
+      <td valign="top"><img src="6.jpg"  width="250"/></td>
+      <td valign="top"><img src="7.jpg"  width="250"/></td>
+      <td valign="top"><img src="8.jpg"  width="250"/></td>
+    </tr>
+  </table>
+</div>
+<!-- End of Showcase Gallery -->
 ## ✨ Core Features
 
 This application was built from the ground up to include a robust set of features that mirror a professional, production-ready mobile app.
